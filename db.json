@@ -8,6 +8,33 @@
       "category": "mobile",
       "brand": "Apple",
       "photo": "https://herakoi.com/wp-content/uploads/sites/3/2020/12/dummy-product-09.png"
+    },
+    {
+      "id": 2,
+      "name": "Monkey kulla",
+      "color": "green",
+      "price": 300,
+      "category": "cloth",
+      "brand": "kuls",
+      "photo": "https://herakoi.com/wp-content/uploads/sites/3/2020/12/dummy-product-09.png"
+    },
+    {
+      "id": 3,
+      "name": "T-shirt",
+      "color": "red",
+      "price": 600,
+      "category": "cloth",
+      "brand": "H&M",
+      "photo": "https://herakoi.com/wp-content/uploads/sites/3/2020/12/dummy-product-09.png"
+    },
+    {
+      "id": 4,
+      "name": "Dairy milk",
+      "color": "violet",
+      "price": 100,
+      "category": "chocolate",
+      "brand": "sunfest",
+      "photo": "https://herakoi.com/wp-content/uploads/sites/3/2020/12/dummy-product-09.png"
     }
   ]
 }
