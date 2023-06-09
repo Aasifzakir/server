@@ -1,7 +1,12 @@
 {
-  {
-    'id': 1,
-    'name': 'Aasif',
-    'age': 20
-  }
+  "products": [
+    {
+      "id": 1,
+      "name": "Iphone 11 pro",
+      "color": "black",
+      "price": 200000,
+      "category": "mobile",
+      "brand": "Apple"
+    }
+  ]
 }
