@@ -25,4 +25,38 @@
       "degree": "MCA"
     }
   ]
+  "products": [
+    {
+      "id": 1,
+      "name": "Realme 7 Pro",
+      "color": "Silver",
+      "brand": "Realme",
+      "price": 20000,
+      "photo": "https://media.istockphoto.com/id/173944980/photo/old-ventriloquists-dummy.jpg?s=1024x1024&w=is&k=20&c=qPpU2IoK9yLBwkXp44Jj-BQqoAEffyYFIHX4D5968AE="
+    },
+    {
+      "id": 2,
+      "name": "Redmi Note 5 Pro",
+      "color": "Red",
+      "brand": "Xiomi",
+      "price": "12000",
+      "photo": "https://media.istockphoto.com/id/173944980/photo/old-ventriloquists-dummy.jpg?s=1024x1024&w=is&k=20&c=qPpU2IoK9yLBwkXp44Jj-BQqoAEffyYFIHX4D5968AE="
+    },
+    {
+      "id": 3,
+      "name": "Iphone",
+      "color": "Ice blue",
+      "brand": "Apple",
+      "price": 120000,
+      "photo": "https://media.istockphoto.com/id/173944980/photo/old-ventriloquists-dummy.jpg?s=1024x1024&w=is&k=20&c=qPpU2IoK9yLBwkXp44Jj-BQqoAEffyYFIHX4D5968AE="
+    },
+    {
+      "id": 4,
+      "name": "Oppo Reno 3",
+      "color": "black",
+      "brand": "Oppo",
+      "price": 40000,
+      "photo": "https://media.istockphoto.com/id/173944980/photo/old-ventriloquists-dummy.jpg?s=1024x1024&w=is&k=20&c=qPpU2IoK9yLBwkXp44Jj-BQqoAEffyYFIHX4D5968AE="
+    }
+  ]
 }
