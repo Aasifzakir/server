@@ -4,25 +4,46 @@
       "id": 1,
       "name": "Aasif",
       "age": 20,
-      "degree": "BCA"
+      "degree": "BCA",
+      "email": "aasifzakir2003@gmail.com",
+      "phone": "8667665278",
+      "address": "India"
     },
     {
       "id": 2,
       "name": "Sabari",
       "age": 25,
-      "degree": "BE"
+      "degree": "BE",
+      "email": "sabari@gmail.com",
+      "phone": "9787875555",
+      "address": "India"
     },
     {
       "id": 3,
       "name": "Santhosh",
       "age": 23,
-      "degree": "B.Sc"
+      "degree": "B.Sc",
+      "email": "santhosh@gmail.com",
+      "phone": "8220558873",
+      "address": "USA"
     },
     {
       "id": 4,
       "name": "Venkatesh",
       "age": 21,
-      "degree": "MCA"
+      "degree": "MCA",
+      "email": "venkat@gmail.com",
+      "phone": "7997099004",
+      "address": "USA"
+    },
+    {
+      "id": 5,
+      "name": "Reshma",
+      "age": 21,
+      "degree": "BCA",
+      "email": "resh@gmail.com",
+      "phone": "7071523488",
+      "address": "USA"
     }
   ],
   "products": [
